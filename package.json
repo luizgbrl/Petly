@@ -7,8 +7,12 @@
   },
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "description": "",
   "dependencies": {
     "express": "^5.1.0"
   }
+=======
+  "description": ""
+>>>>>>> 1679fb2 (first commit)
 }
